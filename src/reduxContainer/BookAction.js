@@ -1,6 +1,9 @@
-import { buybook } from "./BookTypes"
+import { buy_book } from "./BookTypes";
+// purchase_book is action name 
 const purchase_book = () => {
     return {
-        type : buybook
+        type : buy_book
     }
 }
+
+export default purchase_book
