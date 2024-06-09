@@ -5,8 +5,6 @@
 
 With [React Js Login ](https://dev.to/ziontutorial/core-concepts-of-redux-3ehk) React Redux | React Redux Tutorial | React Redux for beginners.
 
-The user of [Responsive Login Form using](https://ziontutorial.com/) Responsive Login Form using react js
-
 <br />
 The app is developed using React.js.
 
