@@ -7,7 +7,6 @@ With [React Js Login ](https://dev.to/ziontutorial/core-concepts-of-redux-3ehk) 
 
 <br />
 The app is developed using React.js.
-
 <br/>
 
 ## 💻 Live Demo:
