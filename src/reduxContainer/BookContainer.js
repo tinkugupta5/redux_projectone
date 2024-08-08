@@ -9,8 +9,7 @@ const BookContainer = () => {
     const handleBuy = () => {
         dispatch(purchase_book())
     }
-
-
+    
   return (
     <>
     <div>BookContainer</div>
