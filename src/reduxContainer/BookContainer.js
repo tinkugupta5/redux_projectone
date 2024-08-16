@@ -13,7 +13,7 @@ const BookContainer = () => {
   return (
     <>
     <div>BookContainer</div>
-    <h2>No of Books -  {noofBooks}  </h2>
+    <h2>No of Books - {noofBooks}  </h2>
     <button onClick={handleBuy}>Buy Book</button>
     </>
   )
